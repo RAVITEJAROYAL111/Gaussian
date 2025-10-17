@@ -84,7 +84,8 @@ Developed by: RAVI TEJA ROYAL
 RegisterNumber: 25011599
 */
 
-## Output:<img width="1239" height="587" alt="image" src="https://github.com/user-attachments/assets/f1ce843f-a8c0-4c9b-b267-8f08c822c7df" />
+## Output:<img width="1239" height="587" alt="437674257-0b97b3c2-59db-4052-bcb1-80cbe32df3f2" src="https://github.com/user-attachments/assets/0d040056-1c60-4570-aeb6-4c6e4323ea42" />
+
 
 
 ![gaussian elimination]()
