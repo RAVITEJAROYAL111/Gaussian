@@ -84,10 +84,10 @@ Developed by: RAVI TEJA ROYAL
 RegisterNumber: 25011599
 */
 
-## Output:
-![gaussian elimination]()
-<img width="807" height="369" alt="image" src="https://github.com/user-attachments/assets/894abe2a-db06-4f26-a0d5-05ec26fb66c6" />
+## Output:<img width="1239" height="587" alt="image" src="https://github.com/user-attachments/assets/f1ce843f-a8c0-4c9b-b267-8f08c822c7df" />
 
+
+![gaussian elimination]()
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
