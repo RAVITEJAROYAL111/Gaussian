@@ -78,13 +78,10 @@ for i in range(n-2, -1, -1):
 # Displaying solution
 for i in range(n):
     print('X%d = %0.2f' % (i, x[i]), end=' ')
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: RAVI TEJA ROYAL
-RegisterNumber: 25011599
-*/
 
-## Output:<img width="714" height="458" alt="image" src="https://github.com/user-attachments/assets/eff89a2d-da83-4cf7-882d-d8ac433277f1" />
+```
+## Output:
+<img width="866" height="558" alt="image" src="https://github.com/user-attachments/assets/49aad2db-64a2-4672-abe0-8d68dd7a0661" />
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
